@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output (optional - keep if you want to deploy from repo)
+# dist/
+
+# Logs
+*.log
+output.log
+
+# Error files
+build_err.txt
+err.txt
+err2.txt
+err3.txt
+
+# MongoDB local data
+mongo_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
